@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ACT20_SimpleCoroutines_GuillemDehon</string>
+    <string name="iniciar_desc_rrega">Iniciar descàrrega</string>
+    <string name="estat_esperant">Estat: Esperant...</string>
+</resources>
